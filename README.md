@@ -1,6 +1,6 @@
 _(Vietnamese below)_
 
-Compyle is a robust, statically-typed, compiled implementation of the Python programming language. 
+Compyle is a robust, statically-typed, compiled implementation of the Python programming language. Run existing Python code-bases with Compyle for faster execution, optimized memory usage, and detect potential logic hazards through a robust automated-proving system.
 
 ## Installation
 
